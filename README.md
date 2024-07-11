@@ -6,15 +6,15 @@ This is a CLI Application that works with Python. It simulates a command line ap
 
 Priority list:
 
--o =``` Optional
+- o = Optional
 
--l =``` Low
+- l = Low
 
--m =``` Medium
+- m = Medium
 
--h =``` High
+- h = High
 
--c =``` Crucial
+- c = Crucial
 
 To insert new todos to a file you can insert: (By default all new tasks priority level is assigned to medium and written to a file "mytodos.txt")
 
