@@ -1,5 +1,8 @@
 # CLI Application
 
+![CLI-App](https://github.com/eralcacer/cli-app/assets/28842797/d8d333e1-ed70-4ca7-8881-7e03abc12999)
+
+
 This is a CLI Application that works with Python. It simulates a command line application to add, delete, and view todos into a ".txt" file.
 
 # How to use?
